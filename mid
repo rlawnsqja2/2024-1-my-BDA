@@ -1,0 +1,3 @@
+df_new.rename(columns = {'var2': 'v2'})
+import numpy as np
+exam.assign(test = np.where(exam['science'] >= 60, 'pass','fail'))
