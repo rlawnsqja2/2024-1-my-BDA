@@ -1,4 +1,14 @@
 처음부터 끝까지 
 09차시부터가 주력
-precision 
-f1score 등등 시험문제 나옴
+
+Sensitivity Precision Accurancy F1score등등 시험문제 나옴
+기술통계와 추론통계 - 추론통계에서 통계적으로 유의하다, 유의하지 않다. 다시한번 공부 
+regular와 premium의 도심연비가 연비가 좋은지 나쁜지 기술통계 사용 group by같은거 잘 공부
+textmining 공부할때 한글이나 영어에서 모든 한글에서 바꿀때 모든 한글 표기를 레귤러 익스프레션
+다이아몬드 plot 데이터 시각화 그림
+
+중간고사에서 나왔던거 중에 drop dropna 메소드 공부
+get_dummies one-hot encoding
+decision tree 
+
+ch14~ch15에서 꽤 많이 나왔다는 교수님의 말씀
